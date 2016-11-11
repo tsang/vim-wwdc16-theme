@@ -77,12 +77,12 @@ hi Label ctermfg=10 ctermbg=NONE cterm=NONE guifg=#52bd58 guibg=NONE gui=NONE gu
 hi Number ctermfg=11 ctermbg=NONE cterm=NONE guifg=#95c76f guibg=NONE gui=NONE guisp=NONE
 hi Operator ctermfg=6 ctermbg=NONE cterm=NONE guifg=#00aba5 guibg=NONE gui=NONE guisp=NONE
 hi PreProc ctermfg=1 ctermbg=NONE cterm=NONE guifg=#dc3c3c guibg=NONE gui=NONE guisp=NONE
-hi Special ctermfg=1 ctermbg=NONE cterm=NONE guifg=#dc3c3c guibg=NONE gui=NONE guisp=NONE
+hi Special ctermfg=1 ctermbg=NONE cterm=NONE guifg=#dc5a5a guibg=NONE gui=NONE guisp=NONE
 hi SpecialChar ctermfg=5 ctermbg=NONE cterm=NONE guifg=#b73999 guibg=NONE gui=NONE guisp=NONE
 hi SpecialComment ctermfg=5 ctermbg=NONE cterm=NONE guifg=#b73999 guibg=NONE gui=NONE guisp=NONE
-hi Statement ctermfg=2 ctermbg=NONE cterm=NONE guifg=#64878f guibg=NONE gui=NONE guisp=NONE
+hi Statement ctermfg=2 ctermbg=NONE cterm=NONE guifg=#B0619E guibg=NONE gui=NONE guisp=NONE
 hi StorageClass ctermfg=6 ctermbg=NONE cterm=NONE guifg=#00aba5 guibg=NONE gui=NONE guisp=NONE
-hi String ctermfg=11 ctermbg=NONE cterm=NONE guifg=#95c76f guibg=NONE gui=NONE guisp=NONE
+hi String ctermfg=11 ctermbg=NONE cterm=NONE guifg=#DC5A5A guibg=NONE gui=NONE guisp=NONE
 hi Structure ctermfg=1 ctermbg=NONE cterm=NONE guifg=#dc3c3c guibg=NONE gui=NONE guisp=NONE
 hi Todo ctermfg=5 ctermbg=NONE cterm=NONE,bold guifg=#b73999 guibg=NONE gui=NONE,bold guisp=NONE
 hi Type ctermfg=13 ctermbg=NONE cterm=NONE guifg=#8485ce guibg=NONE gui=NONE guisp=NONE
@@ -90,8 +90,9 @@ hi Underlined ctermfg=NONE ctermbg=NONE cterm=NONE,underline guifg=NONE guibg=NO
 hi WWDC16Black ctermfg=0 ctermbg=NONE cterm=NONE guifg=#292c36 guibg=NONE gui=NONE guisp=NONE
 hi WWDC16Red ctermfg=1 ctermbg=NONE cterm=NONE guifg=#dc3c3c guibg=NONE gui=NONE guisp=NONE
 hi WWDC16Forestgreen ctermfg=2 ctermbg=NONE cterm=NONE guifg=#64878f guibg=NONE gui=NONE guisp=NONE
-hi WWDC16Orange ctermfg=3 ctermbg=NONE cterm=NONE guifg=#d28e5d guibg=NONE gui=NONE guisp=NONE
+hi WWDC16Orange ctermfg=3 ctermbg=NONE cterm=NONE guifg=#E59053 guibg=NONE gui=NONE guisp=NONE
 hi WWDC16Blue ctermfg=4 ctermbg=NONE cterm=NONE guifg=#4670d8 guibg=NONE gui=NONE guisp=NONE
+hi WWDC16LightBlue ctermfg=4 ctermbg=NONE cterm=NONE guifg=#528FCC guibg=NONE gui=NONE guisp=NONE
 hi WWDC16Fusia ctermfg=5 ctermbg=NONE cterm=NONE guifg=#b73999 guibg=NONE gui=NONE guisp=NONE
 hi WWDC16Bluegreen ctermfg=6 ctermbg=NONE cterm=NONE guifg=#00aba5 guibg=NONE gui=NONE guisp=NONE
 hi WWDC16Grey3 ctermfg=7 ctermbg=NONE cterm=NONE guifg=#999999 guibg=NONE gui=NONE guisp=NONE
